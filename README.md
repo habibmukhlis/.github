@@ -37,8 +37,7 @@ Systems engineer and software architect behind **Al-Haq Studio** and the **Al-Ha
 ### Initiatives
 
 - **[Al-Haq Studio](https://alhaq.uk)** — Commercial software engineering studio producing Android applications, no-root local firewalls, 3D spatial simulations, and zero-knowledge cryptographic systems.
-- **[Al-Haq Initiative](https://alhaq-initiative.org)** — Personal community digital mission providing 100% free spiritual productivity tools and primary-source archival research.
-- **[Al-Haq Initiative](https://alhaq-initiative.org)** — Non-profit digital projects and open tech solutions.
+- **[Al-Haq Initiative](https://alhaq-initiative.org)** — Personal community digital mission providing 100% free spiritual productivity tools and primary-source archival research, Non-profit digital projects and open tech solutions.
 - **[Official Studio Website](https://alhaq.uk)** — Platform update, articles, and ongoing work.
 - **[personal Portfolio](https://github.com/habibmukhlis/habibmukhlis.github.io)** GitHub pages Personal portfolio 
 
