@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I build tools, manage open-source software, and wo
 
 - **[Al-Haq Initiative](https://alhaq-initiative.org)** — Non-profit digital projects and open tech solutions.
 - **[Official Studio Website](https://alhaq.uk)** — Platform update, articles, and ongoing work.
-- **[GitHub Pages: personal Portfolio](https://github.com/habibmukhlis/habibmukhlis.github.io)** GitHub pages Personal portfolio 
+- **[personal Portfolio](https://github.com/habibmukhlis/habibmukhlis.github.io)** GitHub pages Personal portfolio 
 
 ---
 
