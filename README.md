@@ -1,6 +1,6 @@
 # Habib Mukhlis
 
-Systems engineer and software architect behind **Al-Haq Studio** and the **Al-Haq Initiative**. Focused on engineering sovereign on-device privacy guardians, 3D spatial simulations, compiler toolchains, and open community tools.
+Systems engineer and software architect behind **Al-Haq Studio** and the **Al-Haq Initiative**. Focused on engineering sovereign on-device privacy guardians, and open community tools.
 
 ---
 
